@@ -1,1 +1,1 @@
-Don't worry much, just download the 
+Don't worry much, just download the "Anime-Recommendation-dashboard.pbix" file, install power Bi in your computer and enjoy the free recommendaitons across different genres using different filters, enjoy!!
